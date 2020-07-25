@@ -8,7 +8,7 @@
  * @since  2020-05
  */
 
-#include "Board.hpp"
+#include "board.hpp"
 
 namespace WarGame {
 	class DemoGame {
