@@ -1,5 +1,5 @@
 #include "doctest.h"
-#include "Board.hpp"
+#include "board.hpp"
 #include "Soldier.hpp"
 #include "FootSoldier.hpp"
 #include "FootCommander.hpp"
